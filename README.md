@@ -2,17 +2,17 @@
 
 <!-- Animated Typing Banner -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Mukesh+Kumar+D;Software+Engineer+%7C+ML+Enthusiast+%7C+Full+Stack+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=110&lines=Hi+%F0%9F%91%8B%2C+I'm+Mukesh+Kumar+D;Software+Engineer+%7C+ML+Enthusiast+%7C+Python+Developer;Open+to+Full-Time+Roles+%26+Collaborations+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=Mukesh466&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/mukesh-kumar-d/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/Mukeshkumar466"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mukeshkumarsec466@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://github.com/Mukesh466"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://leetcode.com/u/MukeshkumarD/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 </p>
 
 </div>
@@ -70,6 +70,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### 🌐 Frontend & Web
@@ -107,7 +108,6 @@ me.say_hi()
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </p>
@@ -130,11 +130,7 @@ me.say_hi()
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 ### 🔋 Predictive Battery Health Monitoring System
-
-</div>
 
 > **Tech Stack:** Python · LSTM (Deep Learning) · Time-Series Analysis · Anomaly Detection
 
@@ -148,21 +144,91 @@ Designed and implemented a sophisticated battery health monitoring system levera
 
 ---
 
-<div align="center">
-
 ### 🧠 Temple Crowd Tracking System (AI-Based Surveillance)
-
-</div>
 
 > **Tech Stack:** Python · OpenCV · YOLOv8 · Computer Vision · Data Logging
 
-Built an intelligent, real-time crowd monitoring system for public spaces using **YOLOv8** object detection and **OpenCV** for video stream processing. The system performs live people counting, density estimation, and behavioral analytics — generating automated reports for smart surveillance and crowd management authorities. Designed with scalability in mind for deployment in temples, stadiums, and public events.
+Built an intelligent, real-time crowd monitoring system for public spaces using **YOLOv8** object detection and **OpenCV** for video stream processing. The system performs live people counting, density estimation, and behavioral analytics — generating automated reports for smart surveillance and crowd management authorities.
 
 **Key Highlights:**
 - Real-time people detection and counting using YOLOv8
 - Crowd density heatmaps and zone-wise analytics
-- Automated data logging and PDF/CSV report generation
+- Automated data logging and report generation
 - Configurable alert thresholds for overcrowding scenarios
+
+---
+
+## 🏅 LeetCode Stats
+
+<div align="center">
+
+<!-- LeetCode Stats Card - updates daily from leetcode.com/u/MukeshkumarD -->
+<a href="https://leetcode.com/u/MukeshkumarD/">
+  <img src="https://leetcard.jacoblin.cool/MukeshkumarD?theme=dark&font=Fira%20Code&ext=heatmap&width=500" alt="LeetCode Stats"/>
+</a>
+
+</div>
+
+<div align="center">
+
+| 🐍 Python3 | 🗄️ MySQL | ☕ Java | 📊 Total Solved |
+|:---:|:---:|:---:|:---:|
+| 32 problems | 7 problems | 1 problem | **40 problems** |
+
+</div>
+
+<div align="center">
+
+**Skills Demonstrated on LeetCode**
+
+| Level | Topics |
+|:---|:---|
+| 🔴 Advanced | Divide & Conquer · Dynamic Programming |
+| 🟡 Intermediate | Math · Database · Recursion |
+| 🟢 Fundamental | Array · String · Two Pointers |
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<!-- GitHub Stats - pulls live data from github.com/Mukesh466 and updates daily -->
+<img src="https://github-readme-stats.vercel.app/api?username=Mukesh466&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180px" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukesh466&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=AI_Lab_2023-24" height="180px" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<!-- GitHub Streak - shows current streak, longest streak, total contributions - updates daily -->
+<img src="https://streak-stats.demolab.com/?user=Mukesh466&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=daily" alt="GitHub Streak Stats" width="600"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<!-- Trophies update dynamically based on your GitHub achievements -->
+<img src="https://github-profile-trophy.vercel.app/?username=Mukesh466&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<!-- Activity graph - rebuilds every 24 hours with your latest commits -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukesh466&theme=tokyo-night&hide_border=true&area=true&area_color=00d9ff&color=00d9ff&line=00b4d8&point=ffffff" alt="GitHub Activity Graph" width="100%"/>
+
+</div>
 
 ---
 
@@ -180,48 +246,11 @@ Built an intelligent, real-time crowd monitoring system for public spaces using 
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mukesh466&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180px" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukesh466&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180px" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Mukesh466&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mukesh466&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukesh466&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mukesh-kumar-d/">
+<a href="https://www.linkedin.com/in/Mukeshkumar466">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
@@ -232,6 +261,10 @@ Built an intelligent, real-time crowd monitoring system for public spaces using 
 <a href="https://github.com/Mukesh466">
   <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+&nbsp;
+<a href="https://leetcode.com/u/MukeshkumarD/">
+  <img src="https://img.shields.io/badge/LeetCode-40%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 </div>
 
@@ -240,9 +273,9 @@ Built an intelligent, real-time crowd monitoring system for public spaces using 
 ## ⚡ Fun Facts
 
 - 🔌 My ECE background means I think in **signals and systems** before I think in code
-- 🧪 I built an AI surveillance system before I could legally drive a car
+- 🧪 I built an AI surveillance system before finishing my second year of college
 - 🏏 Cricket strategy taught me everything I know about **teamwork and patience under pressure**
-- 🤖 I believe the best engineers are the ones who are **forever curious students**
+- 🐍 Python is my primary language — solved **40 LeetCode problems** and counting
 - ☕ My debugging fuel: strong filter coffee + Chennai rain in the background
 
 ---
