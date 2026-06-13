@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Banner -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=110&lines=Hi+%F0%9F%91%8B%2C+I'm+Mukesh+Kumar+D;Software+Engineer+%7C+ML+Enthusiast+%7C+Python+Developer;Open+to+Full-Time+Roles+%26+Collaborations+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=110&lines=Hi+%F0%9F%91%8B%2C+I'm+Mukesh+Kumar+D;+ML+Enthusiast+%7C+Python+Developer;Open+to+Full-Time+Roles+%26+Collaborations+" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -205,28 +205,6 @@ Built an intelligent, real-time crowd monitoring system for public spaces using 
 
 <!-- GitHub Streak - shows current streak, longest streak, total contributions - updates daily -->
 <img src="https://streak-stats.demolab.com/?user=Mukesh466&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=daily" alt="GitHub Streak Stats" width="600"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<!-- Trophies update dynamically based on your GitHub achievements -->
-<img src="https://github-profile-trophy.vercel.app/?username=Mukesh466&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<!-- Activity graph - rebuilds every 24 hours with your latest commits -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukesh466&theme=tokyo-night&hide_border=true&area=true&area_color=00d9ff&color=00d9ff&line=00b4d8&point=ffffff" alt="GitHub Activity Graph" width="100%"/>
 
 </div>
 
