@@ -28,13 +28,13 @@ class MukeshKumarD:
         self.location   = "Chennai, Tamil Nadu 🇮🇳"
         self.education  = "B.E. Electronics & Communication @ Saveetha Engineering College (2023–2027)"
         self.cgpa       = 7.53
-        self.roles      = ["Software Engineer", "Full Stack Developer", "ML Engineer", "Data Analyst"]
-        self.languages  = ["Python 🐍", "JavaScript", "Java", "C", "C++"]
+        self.roles      = ["Software Engineer","Full Stack Developer","ML Engineer","Data Analyst"]
+        self.languages  = ["Python","JavaScript","Java","C","C++"]
         self.currently  = "Actively seeking Software Engineering / ML roles at MNCs & startups"
-        self.fun_fact   = "I bridge hardware intuition with software precision 🔌💻"
+        self.fun_fact   = "I bridge hardware intuition with software precision"
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
+        print("Thanks for dropping by!!! Let's build something amazing together!!! ")
 
 me = MukeshKumarD()
 me.say_hi()
