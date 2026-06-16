@@ -19,7 +19,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
 ```python
 class MukeshKumarD:
@@ -42,11 +42,11 @@ me.say_hi()
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 <div align="center">
 
-| 🔭 Working On | 🌱 Learning | 👯 Open To |
+|  Working On |  Learning |  Open To |
 |:---:|:---:|:---:|
 | ML-powered projects & full-stack apps | TypeScript · Docker · System Design | Collaborations & Open Source |
 | Battery SOH/RUL Prediction (LSTM) | Cloud platforms (AWS · Azure · GCP) | Internships & Full-time roles |
@@ -56,9 +56,9 @@ me.say_hi()
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Programming Languages
+###  Programming Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js&theme=dark" alt="Languages"/>
@@ -73,7 +73,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🌐 Frontend & Web
+###  Frontend & Web
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,nodejs&theme=dark" alt="Frontend"/>
@@ -87,7 +87,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-### 🤖 AI / ML & Data
+### AI / ML & Data
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch&theme=dark" alt="ML"/>
@@ -101,7 +101,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
-### 🗄️ Database & Cloud
+### Database & Cloud
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,aws,azure&theme=dark" alt="DB & Cloud"/>
@@ -112,7 +112,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </p>
 
-### ⚙️ Tools & DevOps
+### Tools & DevOps
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" alt="Tools"/>
@@ -128,9 +128,9 @@ me.say_hi()
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔋 Predictive Battery Health Monitoring System
+### Predictive Battery Health Monitoring System
 
 > **Tech Stack:** Python · LSTM (Deep Learning) · Time-Series Analysis · Anomaly Detection
 
@@ -144,7 +144,7 @@ Designed and implemented a sophisticated battery health monitoring system levera
 
 ---
 
-### 🧠 Temple Crowd Tracking System (AI-Based Surveillance)
+### Temple Crowd Tracking System (AI-Based Surveillance)
 
 > **Tech Stack:** Python · OpenCV · YOLOv8 · Computer Vision · Data Logging
 
@@ -158,7 +158,7 @@ Built an intelligent, real-time crowd monitoring system for public spaces using 
 
 ---
 
-## 🏅 LeetCode Stats
+## LeetCode Stats
 
 <div align="center">
 
