@@ -49,7 +49,7 @@ me.say_hi()
 |:---:|:---:|:---:|
 | ML-powered projects & full-stack apps | TypeScript · Docker · System Design | Collaborations & Open Source |
 | Battery SOH/RUL Prediction (LSTM) | Cloud platforms (AWS · Azure · GCP) | Internships & Full-time roles |
-| YOLOv8 Computer Vision Systems | DSA with Python | Hackathons & Tech Communities |
+| YOLOv8 Computer Vision Systems | DSA with Python · MySql | Hackathons & Tech Communities |
 
 </div>
 
