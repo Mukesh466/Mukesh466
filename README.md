@@ -27,7 +27,6 @@ class MukeshKumarD:
         self.name       = "Mukesh Kumar D"
         self.location   = "Chennai, Tamil Nadu 🇮🇳"
         self.education  = "B.E. Electronics & Communication @ Saveetha Engineering College (2023–2027)"
-        self.cgpa       = 7.53
         self.roles      = ["Software Engineer","Full Stack Developer","ML Engineer","Data Analyst"]
         self.languages  = ["Python","JavaScript","Java","C","C++"]
         self.currently  = "Actively seeking Software Engineering / ML roles at MNCs & startups"
