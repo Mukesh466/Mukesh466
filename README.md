@@ -252,7 +252,7 @@ Built an intelligent, real-time crowd monitoring system for public spaces using 
 
 - I started with electronics and circuits, but over time I found myself enjoying software and AI even more.
 - I like learning by building things and figuring them out as I go.
-- 🏏 Cricket strategy taught me everything I know about **teamwork and patience under pressure**
+- From AI surveillance to battery health prediction, I enjoy working on projects that connect technology with real-life problems.
 - 🐍 Python is my primary language — solved **40 LeetCode problems** and counting
 - ☕ My debugging fuel: strong filter coffee + Chennai rain in the background
 
