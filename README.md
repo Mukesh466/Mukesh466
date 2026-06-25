@@ -171,7 +171,7 @@ Built an intelligent, real-time crowd monitoring system for public spaces using 
 
 <div align="center">
 
-| 🐍 Python3 | 🗄️ MySQL | ☕ Java | 📊 Total Solved |
+|  Python3 |  MySQL |  Java |  Total Solved |
 |:---:|:---:|:---:|:---:|
 | 48 problems | 9 problems | 1 problem | **58 problems** |
 
