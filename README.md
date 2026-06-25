@@ -248,9 +248,9 @@ Built an intelligent, real-time crowd monitoring system for public spaces using 
 
 ---
 
-## ⚡ Fun Facts
+##  Fun Facts :)
 
-- 🔌 My ECE background means I think in **signals and systems** before I think in code
+- I started with electronics and circuits, but over time I found myself enjoying software and AI even more.
 - 🧪 I built an AI surveillance system before finishing my second year of college
 - 🏏 Cricket strategy taught me everything I know about **teamwork and patience under pressure**
 - 🐍 Python is my primary language — solved **40 LeetCode problems** and counting
@@ -260,7 +260,7 @@ Built an intelligent, real-time crowd monitoring system for public spaces using 
 
 <div align="center">
 
-### 💬 Open to Opportunities
+### Open to Opportunities
 
 **Software Engineering · Full Stack Development · Python Development · Machine Learning · Data Analytics**
 
