@@ -254,7 +254,7 @@ Built an intelligent, real-time crowd monitoring system for public spaces using 
 - I like learning by building things and figuring them out as I go.
 - From AI surveillance to battery health prediction, I enjoy working on projects that connect technology with real-life problems.
 - I believe that a project is successful only when it solves a problem for someone.
-- ☕ My debugging fuel: strong filter coffee + Chennai rain in the background
+- Many of my best project ideas have come from late-night curiosity.
 
 ---
 
