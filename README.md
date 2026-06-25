@@ -61,7 +61,7 @@ me.say_hi()
 ###  Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js&theme=dark" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" alt="Languages"/>
 </p>
 
 <p align="center">
