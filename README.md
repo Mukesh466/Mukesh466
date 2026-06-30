@@ -210,7 +210,7 @@ Built an intelligent, real-time crowd monitoring system for public spaces using 
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 <div align="center">
 
