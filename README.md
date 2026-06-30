@@ -224,7 +224,7 @@ Built an intelligent, real-time crowd monitoring system for public spaces using 
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
