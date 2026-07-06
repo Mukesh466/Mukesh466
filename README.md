@@ -191,7 +191,7 @@ Built an intelligent, real-time crowd monitoring system for public spaces using 
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
