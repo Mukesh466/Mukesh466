@@ -217,7 +217,7 @@ Built an intelligent, real-time crowd monitoring system for public spaces using 
 | Certification | Issuer | Domain |
 |:---|:---|:---|
 | Deep Learning for Developers | Infosys Springboard | AI / Deep Learning |
-| ☁️ Data Engineering on AWS – Foundations | AWS Skillbuilder | Cloud & Data Engineering |
+| Data Engineering on AWS – Foundations | AWS Skillbuilder | Cloud & Data Engineering |
 | 🌐 AI & LLM for Network Engineers (AI4NE) | Cisco U | AI / Networking |
 
 </div>
