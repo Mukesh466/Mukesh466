@@ -183,9 +183,9 @@ Built an intelligent, real-time crowd monitoring system for public spaces using 
 
 | Level | Topics |
 |:---|:---|
-| 🔴 Advanced | Divide & Conquer · Dynamic Programming |
-| 🟡 Intermediate | Math · Database · Recursion |
-| 🟢 Fundamental | Array · String · Two Pointers |
+| Advanced | Divide & Conquer · Dynamic Programming |
+| Intermediate | Math · Database · Recursion |
+| Fundamental | Array · String · Two Pointers |
 
 </div>
 
