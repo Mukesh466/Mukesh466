@@ -248,7 +248,7 @@ Built an intelligent, real-time crowd monitoring system for public spaces using 
 
 ---
 
-##  Fun Facts :)
+##  Fun Facts
 
 - I started with electronics and circuits, but over time I found myself enjoying software and AI even more.
 - I like learning by building things and figuring them out as I go.
