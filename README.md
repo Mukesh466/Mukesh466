@@ -98,20 +98,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </p>
 
-### Tools & DevOps
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" alt="Tools"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unit_Testing-6DB33F?style=for-the-badge&logo=pytest&logoColor=white"/>
-</p>
-
 ---
 
 ## Featured Projects
