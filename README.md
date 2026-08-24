@@ -33,7 +33,7 @@ class MukeshKumarD:
         self.fun_fact   = "I bridge hardware intuition with software precision"
 
     def say_hi(self):
-        print("Thanks for dropping by!!! Let's build something amazing together!!! ")
+        print("Thanks for dropping by! Let's build something amazing together! ")
 
 me = MukeshKumarD()
 me.say_hi()
