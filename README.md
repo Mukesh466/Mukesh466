@@ -145,7 +145,7 @@ Built an intelligent, real-time crowd monitoring system for public spaces using 
 
 |  Python3 |  MySQL |  Pandas |  Total Solved |
 |:---:|:---:|:---:|:---:|
-| 122 problems | 65 problems | 15 problems | **206 problems** |
+| 125 problems | 65 problems | 16 problems | **206 problems** |
 
 </div>
 
