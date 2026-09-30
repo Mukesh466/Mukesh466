@@ -72,20 +72,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
-### AI / ML & Data
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch&theme=dark" alt="ML"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LSTM-Networks-6f42c1?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=github&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
-
 ### Database & Cloud
 
 <p align="center">
