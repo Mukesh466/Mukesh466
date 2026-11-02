@@ -25,7 +25,7 @@
 class MukeshKumarD:
     def __init__(self):
         self.name       = "Mukesh Kumar D"
-        self.location   = "Chennai, Tamil Nadu 🇮🇳"
+        self.location   = "Chennai,Tamil Nadu 🇮🇳"
         self.education  = "B.E. Electronics & Communication @ Saveetha Engineering College (2023–2027)"
         self.roles      = ["Software Engineer","Full Stack Developer","ML Engineer","Data Analyst"]
         self.languages  = ["Python","JavaScript","Java","C","C++"]
